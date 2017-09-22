@@ -6,11 +6,22 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/theme.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <!--script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script-->
+  <script src="https://unpkg.com/vue"></script>
+  <script src="https://www.gstatic.com/firebasejs/4.3.1/firebase.js"></script>
+  <script>var config = { apiKey: "AIzaSyDGObIuk51xiBVhpDlO39qlCsU8fMFDZVQ", authDomain: "supnightlive.firebaseapp.com", databaseURL: "https://supnightlive.firebaseio.com", projectId: "supnightlive", storageBucket: "supnightlive.appspot.com", messagingSenderId: "479177611207" }; firebase.initializeApp(config);</script>
+  <script src="https://unpkg.com/vuefire/dist/vuefire.js"></script>
   <style>
   .snl {
     margin: 0 auto;
+  }
+  .snlcontainer {
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+  }
+  .snlitem {
+    padding:1em;
   }
   </style>
 </head>
@@ -21,45 +32,37 @@
   <div class="container text-center">
     <img src="img/snl-500.png" class="img-responsive snl">
   </div>
+  <div class="container-fluid text-center">
+    <p> &nbsp; &nbsp; <a href="https://www.twitch.tv/supremenightlive">The Show</a>  &middot;  <a href="https://twitter.com/supnightlive">Twitter</a></p>
+  </div>
 </div>
   
-<div class="container-fluid bg-3 text-left">    
+<div class="container-fluid bg-3 text-left" id="snlweouthere">    
   <h3>Past Episodes</h3><br>
-  <div class="row">
-    <div class="col-sm-3">
-      <p> </p>
-      <a href="https://www.twitch.tv/videos/173995747"><img src="img/ep/ep33.jpg" class="img-responsive" style="width:100%" alt="Image"></a>
-    </div>
-    <div class="col-sm-3"> 
-      <p> </p>
-      <a href="https://www.twitch.tv/videos/171350776"><img src="img/ep/ep32.jpg" class="img-responsive" style="width:100%" alt="Image"></a>
-    </div>
-    <div class="col-sm-3"> 
-      <p> </p>
-      <a href="https://www.twitch.tv/videos/171316048"><img src="img/ep/ep31.jpg" class="img-responsive" style="width:100%" alt="Image"></a>
-    </div>
-    <div class="col-sm-3">
-      <p> </p>
-      <a href="https://www.twitch.tv/videos/171267692"><img src="img/ep/ep30.jpg" class="img-responsive" style="width:100%" alt="Image"></a>
-    </div>
+  <div class="snlcontainer">
+     <snl-item
+         v-for="item in showlist"
+         v-bind:show="item"
+         v-bind:key="item.id">
+     </snl-item>
   </div>
 </div><br><br>
 
 
+<!--
 <div class="container-fluid bg-3 text-left">    
   <h3>Articles</h3><br>
   <div class="row">
     <div class="col-sm-3">
       <p>Improving r/streetwear</p>
-      <a href="http://supremenightlive.com/"><img src="img/ar/ar1.jpg" class="img-responsive" style="width:100%" alt="Image"></a>
+      <a href="http://supremenightlive.com/"><img src="img/ar/ar1.jpg" class="img-responsive" style="max-width:100%" alt="Image"></a>
     </div>
   </div>
 </div><br><br>
+-->
 
 
-<footer class="container-fluid text-center">
-  <p><a href="https://www.twitch.tv/supremenightlive">The Show</a>  &middot;  <a href="https://twitter.com/supnightlive">Twitter</a></p>
-</footer>
 
+<script src="js/app.js"></script>
 </body>
 </html>
