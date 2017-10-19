@@ -20,6 +20,7 @@ export default {
 <style scoped>
 .snlitem {
   padding: 1em;
+  max-width: 350px;
 }
 
 .vtitle {
