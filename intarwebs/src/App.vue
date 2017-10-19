@@ -1,18 +1,40 @@
 <template>
 <div id="app">
-  <div class="jumbotron" style="padding-bottom: 0px;margin-bottom: 0px; padding-top:16px;">
-    <div class="container text-center">
-      <img src="./assets/img/snl-hero.png" class="img-responsive snl" style="width:250px">
+<nav class="navbar navbar-default">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <router-link v-bind:to="'/'">
+        <img src="./assets/img/snl-hero.png" class="img-responsive snl" style="width:250px; padding-top:16px;">
+      </router-link>
     </div>
-    <div class="container-fluid text-center">
-      <p>
-        <router-link v-bind:to="'/'">Home</router-link>   &middot;
-        <a href="https://www.twitch.tv/supremenightlive">The Show</a>  &middot;
-	<a href="https://twitter.com/supnightlive">Twitter</a>  &middot;
-        <router-link v-bind:to="'/about'">About</router-link>
-      </p>
-    </div>
-  </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Programs<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>
+        <li><a href="https://www.twitch.tv/supremenightlive">The Show</a></li>
+	<li><a href="https://twitter.com/supnightlive">Twitter</a></li>
+        <li><router-link v-bind:to="'/about'">About</router-link></li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
   <router-view/>
 </div>
 </template>
