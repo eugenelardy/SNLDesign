@@ -1,0 +1,837 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/JHp3OHUlvyQCUzVeiv60M44vXo0\"",
+ "nextPageToken": "CBkQAA",
+ "regionCode": "US",
+ "pageInfo": {
+  "totalResults": 109,
+  "resultsPerPage": 25
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/W8cfHDtq4Oe-lpJs9ZyNxD11enE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "iOY7mFWlHWo"
+   },
+   "snippet": {
+    "publishedAt": "2017-10-13T20:00:01.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "What the Hell is  STREETWEAR? | WTH",
+    "description": "We break down what streetwear might be without actually coming to a definite conclusion. Hopefully you can help us out. The Casual is the home of international ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/iOY7mFWlHWo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/iOY7mFWlHWo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/iOY7mFWlHWo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/xLF9exsQwkiBfTQex-GwsPDdzbY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "GMT1yRzMYO8"
+   },
+   "snippet": {
+    "publishedAt": "2017-10-09T20:00:00.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "5 Must See Streetwear Labels in Japan",
+    "description": "5 streetwear labels that are must see, simple as that. We break them down for your next trip to Tokyo. WM: http://bit.ly/2y5pRgw MH: http://bit.ly/2ybeyWn BC: ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/GMT1yRzMYO8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/GMT1yRzMYO8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/GMT1yRzMYO8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/e2yei5PA36KORwRcPLhB_C_OOpU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Ui9wiOHvHw4"
+   },
+   "snippet": {
+    "publishedAt": "2017-10-05T20:00:01.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "Supreme x Stone Island Breakdown + MYne SS 2018",
+    "description": "The Casual goes international officially with our first Showcase release breakdown. Check out what we think of Supreme's latest drop with Stone Island.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ui9wiOHvHw4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ui9wiOHvHw4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ui9wiOHvHw4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/8Crfw1uOSVEhZJcDxw234MVtUXs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "tViAYRh5VCo"
+   },
+   "snippet": {
+    "publishedAt": "2017-10-03T20:00:02.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "5 Surprisingly Hyped Sneakers in Japan",
+    "description": "As far as the sneaker world is concerned Japan is parallel to the west in many ways. The hyped sneakers elsewhere are hyped here. But Japan still has a few ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tViAYRh5VCo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tViAYRh5VCo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tViAYRh5VCo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/_p3Jn6AAkzhppvYyPcSaTEL651Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "qt8-Pz9qG4A"
+   },
+   "snippet": {
+    "publishedAt": "2017-10-03T19:42:22.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "A Message from Tokyo to Vegas, Paris, London, Canada, Nigeria etc...",
+    "description": "We need a brief intermission from street fashion to bring you this message directly from our host Reggie Casual. Then when the dust settles, we'll get back to ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qt8-Pz9qG4A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qt8-Pz9qG4A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qt8-Pz9qG4A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/OOZmRkmzqMtegsRSvs8RXevkv1I\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Zc3Yx450S38"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-29T20:00:03.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "How to Promote & Market Your Streetwear Brand",
+    "description": "Reggie Casual breaks down part 3 of starting your streetwear brand by giving the skinny on branding and marketing,. The Casual is the home of international ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Zc3Yx450S38/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Zc3Yx450S38/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Zc3Yx450S38/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/YU_sIYNcSRJHUc1gVI-EOT25L84\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "p0mhP2sj1ms"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-27T20:00:05.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "What the HELL is Off White? | WTH",
+    "description": "We break down one of the most contentious brands in the street fashion industry. Off-White continues to hold on strong in the fashion industry but does it win ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/p0mhP2sj1ms/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/p0mhP2sj1ms/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/p0mhP2sj1ms/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/rOMjKPNyYvQ3Qc-2FA_59tIkWzQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Z-4WolZx4IY"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-26T01:41:28.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "Why You Should Go to Japan for Streetwear",
+    "description": "Every year thousands of travelers come to Japan in search of something mysterious and many more come for the eccentric society. On this episode of The State ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Z-4WolZx4IY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Z-4WolZx4IY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Z-4WolZx4IY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/r31pe9hwGAjt4nh9GUpcKz8NlY8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "SmmGjsx4Yn4"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-23T16:00:05.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "Tokyo Street Fashion Tour in Harajuku",
+    "description": "Reggie Casual takes you on a small virtual tour through the Urahara. A place where fashion meets the street Tokyo, Japan. Take the real tour on your next trip to ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SmmGjsx4Yn4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SmmGjsx4Yn4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SmmGjsx4Yn4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/8kHN2bVFyfxcXXPyB9mFyC7s6F0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "IJcve8CPhDI"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-21T23:07:58.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "Pureboost Better than  Ultraboost?",
+    "description": "We take a look at the Pureboost and see how its stacks up against the classic. The Casual is the home of international street fashion, culture, and lifestyle from ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IJcve8CPhDI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IJcve8CPhDI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IJcve8CPhDI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/cBpUQy3uz2-JfkCY1zaOosLDY5E\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "X2kZpg6fid8"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-18T17:42:40.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "How NOT to be a HYPEBEAST | THE STATE",
+    "description": "The world of street culture has run amok and Reggie Casual gives his tips on how to end the Hypebeasting for good... Even though it's probably in vain. Still we ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/X2kZpg6fid8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/X2kZpg6fid8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/X2kZpg6fid8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/f7pyXo2a4EUUkAwSbuAAjkvMTHI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "RoxnL-Mn6LQ"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-16T01:13:24.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "WHAT THE HELL IS UNIQLO?",
+    "description": "It used to be 'Brand Reviews' and now we've re-branded it. On this first edition of 'WTH is...' we take a look at Uniqlo, its history, background, and relevant info.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RoxnL-Mn6LQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RoxnL-Mn6LQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RoxnL-Mn6LQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/NGxYFnYHuyr6YL27VR4PgLQ1SgA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "-z1GVyZuOgE"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-12T17:00:01.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "Japanese Streetwear Styles & Brands for Ladies that SLAY  |  THE STATE",
+    "description": "The ladies need love and we're happy to oblige. Here are some Japanese street labels for ladies that are sure to add some inspiration to her closet. We break it ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-z1GVyZuOgE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-z1GVyZuOgE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-z1GVyZuOgE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/VvArvjhEW46LSvRmJdonMUtOfek\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "pEh5rBk333g"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-07T16:54:24.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "How to Do the WIDE Style Featuring LAD Musician | THE DROP",
+    "description": "The Casual is the home of international street fashion, culture, and lifestyle from the perspective of Japan. Keep it locked for all the latest from Tokyo and beyond.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/pEh5rBk333g/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/pEh5rBk333g/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/pEh5rBk333g/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/XOfpNRh6Mi5fjXecXmHX4N8tHsk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "yb5S8h9N4gg"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-05T17:13:53.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "Jerry Lorenzo Launches FEAR OF GOD 5 in JAPAN at GR8 | THE STATE",
+    "description": "The Casual is the home of international street fashion, culture, and lifestyle from the perspective of Japan. Keep it locked for all the latest from Tokyo and beyond.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yb5S8h9N4gg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yb5S8h9N4gg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yb5S8h9N4gg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/UbMF-_ArIvScHCSnaQUXRO-_-Jg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "HtwANL9bsGg"
+   },
+   "snippet": {
+    "publishedAt": "2017-09-01T02:51:11.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "HOW TO START A STREETWEAR BRAND PT. 2 • SETTING GOALS, CUSTOMER PROFILE, FINANCIAL SHEET",
+    "description": "Part 2 of the series is here and we explore some of the essentials of starting your brand before you even begin designing. We take a look at your goals, building ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HtwANL9bsGg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HtwANL9bsGg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HtwANL9bsGg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/jeHcX4U4jk0DxbvI9CXPDCpN5bA\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "rumokUAeKMY"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-30T19:39:34.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "IS MASTERMIND WORLD WORTH IT? | THE DROP",
+    "description": "The Casual is the home of international street fashion, culture, and lifestyle from the perspective of Japan. Keep it locked for all the latest from Tokyo and beyond.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/rumokUAeKMY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/rumokUAeKMY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/rumokUAeKMY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/o73Lhs4BJBl1G3S1-y3A5cK3DTY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "RieOQeB4kTM"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-29T17:00:03.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "JAPANESE STREETWEAR 20K SUB GIVEAWAY",
+    "description": "The Casual is the home of international street fashion, culture, and lifestyle from the perspective of Japan. Keep it locked for all the latest from Tokyo and beyond.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/RieOQeB4kTM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/RieOQeB4kTM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/RieOQeB4kTM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/pQ8w8Uv-TRuZ9LumysqPLlnj7pk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "bILplV1spZU"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-24T17:00:02.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "THE ULTIMATE TECHWEAR SNEAKER OR A MASSIVE LETDOWN? | Y-3 NOCI HIGH",
+    "description": "We take a deep look at Y-3's NOCI High. Does it stand up to the critics and is it a good sneaker? Is it a good choice for that techwear vibe? We answer those ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/bILplV1spZU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/bILplV1spZU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/bILplV1spZU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/rLPGzA66T3WjrH_vJV7UugbLvh8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "tK4OQRKjW8s"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-22T02:44:01.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "How to Start Your Streetwear Brand Pt 1 • Brand Philosophy",
+    "description": "We're taking a small break from the usual to present our new show 'UNSCRiPTED' where we answer questions and cover a multitude of topics covering street ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tK4OQRKjW8s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tK4OQRKjW8s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tK4OQRKjW8s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/omJO2gnKBZxKDkPxw16qwZQDpPM\"",
+   "id": {
+    "kind": "youtube#playlist",
+    "playlistId": "PL2LZlhXpHeojswBPfWwZts9qGjT2qrB0d"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-22T02:41:31.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "UNSCRiPTED",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/tK4OQRKjW8s/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/tK4OQRKjW8s/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/tK4OQRKjW8s/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/75Mm4fosMR9bR_I9-t3Vd8QgoJQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "XoeJQ5-UUEM"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-09T17:00:06.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "Supreme Vs Bape: A Battle of the Biggest Brands",
+    "description": "Supreme and Bape are two of the biggest names in street fashion and the followers on both sides of the aisle have a major score to settle, answering the ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XoeJQ5-UUEM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XoeJQ5-UUEM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XoeJQ5-UUEM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/6tenIWT-I2fMKQ0b7GxAfha5TaE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "wr6kyMEVZRM"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-07T17:00:05.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "How to go Japanese Street Style + Brands to Get You Started",
+    "description": "There's always time to switch up the style and what better way to do that than getting some inspiration from some the land of the rising sun+ The State goes ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/wr6kyMEVZRM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/wr6kyMEVZRM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/wr6kyMEVZRM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/iZlciBDLdGzgZy98ct4mlZ9-32M\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Ts7ybeomaso"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-25T17:00:01.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "Techwear Tips + Japanese Tech Brands",
+    "description": "Techwear is burgeoning as a legitimate style in street fashion and we fully expect the community (and brands) to latch on to its growing popularity. But how do ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ts7ybeomaso/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ts7ybeomaso/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ts7ybeomaso/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/eh1T8y2cOOY5Iqwao6qWD8xgkVE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "FYu-bCQKPgA"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-23T22:27:33.000Z",
+    "channelId": "UCnnSPut3diQI4BtrraKpsnA",
+    "title": "Japan Vlog | Dragon Ball Z in Harajuku? | WEAR AT x SHOWCASE",
+    "description": "Reggie takes a day off from the office to meet up with Tomo, a guy who knows a thing or two about what's hot and whats not in Japanese street fashion.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/FYu-bCQKPgA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/FYu-bCQKPgA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/FYu-bCQKPgA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "THE CASUAL",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}

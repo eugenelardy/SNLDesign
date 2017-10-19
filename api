@@ -1,0 +1,3 @@
+casual:
+GET https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCnnSPut3diQI4BtrraKpsnA&maxResults=25&order=date&key={YOUR_API_KEY}
+
