@@ -1,13 +1,23 @@
 <template>
   <div class="home">
-    <div class="container-fluid bg-3 text-left" id="snlweouthere">    
+    <div class="container-fluid bg-3 text-left">    
       <h3>Streetwear Night Live</h3>
       <div class="snlcontainer">
         <snl-item
-           v-for="item in showlist"
+           v-for="item in snlshowlist"
            v-bind:show="item"
            v-bind:key="item.id">
         </snl-item>
+      </div>
+    </div><br>
+    <div class="container-fluid bg-3 text-left">    
+      <h3>The Casual</h3>
+      <div class="snlcontainer">
+        <casual-item
+           v-for="item in thecasualshowlist"
+           v-bind:show="item"
+           v-bind:key="item.id">
+        </casual-item>
       </div>
     </div><br><br>
   </div>
@@ -18,7 +28,10 @@ import db from '../db.js'
 
 export default {
   name: 'Home',
-  firebase: { showlist: db.ref('videos/').limitToFirst(12) },
+  firebase: {
+    snlshowlist: db.ref('videos/').limitToFirst(12),
+    thecasualshowlist: db.ref('thecasual/items/').limitToFirst(12)
+  },
   data () {
     return {
       msg: 'main home index'
@@ -27,7 +40,6 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h1, h2 {
   font-weight: normal;

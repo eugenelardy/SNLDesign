@@ -5,10 +5,13 @@ import VueFire from 'vuefire'
 import App from './App'
 import router from './router'
 import SNLItem from './components/SNLItem.vue'
+import CasualItem from './components/CasualItem.vue'
 
 Vue.config.productionTip = false
 Vue.use(VueFire)
-Vue.component('snl-item', SNLItem) // see more: https://forum-archive.vuejs.org/topic/2036/component-inside-component-unknown-custom-element-error-vueify/4
+// see more: https://forum-archive.vuejs.org/topic/2036/component-inside-component-unknown-custom-element-error-vueify/4
+Vue.component('snl-item', SNLItem)
+Vue.component('casual-item', CasualItem)
 
 /* eslint-disable no-new */
 new Vue({

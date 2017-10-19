@@ -33,8 +33,4 @@ export default {
   flex-direction:row;
   flex-wrap:wrap;
 }
-
-.snlitem {
-  padding:1em;
-}
 </style>
