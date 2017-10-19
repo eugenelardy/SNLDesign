@@ -1,7 +1,6 @@
 <template>
   <div class="home">
     <div class="container-fluid bg-3 text-left">    
-      <h3>Streetwear Night Live</h3>
       <div class="snlcontainer">
         <snl-item
            v-for="item in snlshowlist"
@@ -16,7 +15,7 @@
         <casual-item
            v-for="item in thecasualshowlist"
            v-bind:show="item"
-           v-bind:key="item.id">
+           v-bind:key="item._id">
         </casual-item>
       </div>
     </div><br><br>
