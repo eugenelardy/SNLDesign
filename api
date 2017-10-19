@@ -1,3 +1,5 @@
 casual:
 GET https://www.googleapis.com/youtube/v3/search?part=snippet&channelId=UCnnSPut3diQI4BtrraKpsnA&maxResults=25&order=date&key={YOUR_API_KEY}
 
+curl -H 'Accept: application/vnd.twitchtv.v5+json' -H 'Client-ID: tdbyy56vkzl9n2trmyu4gn4fs8qcd7' -X GET https://api.twitch.tv/kraken/channels/130303583/videos
+
