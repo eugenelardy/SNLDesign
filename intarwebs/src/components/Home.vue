@@ -28,8 +28,8 @@ import db from '../db.js'
 export default {
   name: 'Home',
   firebase: {
-    snlshowlist: db.ref('videos/').limitToFirst(12),
-    thecasualshowlist: db.ref('thecasual/items/').limitToFirst(12)
+    snlshowlist: db.ref('videos/').limitToFirst(4),
+    thecasualshowlist: db.ref('thecasual/items/').limitToFirst(4)
   },
   data () {
     return {
