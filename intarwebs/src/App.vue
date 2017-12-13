@@ -21,11 +21,11 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Programs<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#">Action</a></li>
-            <li><a href="#">Another action</a></li>
-            <li><a href="#">Something else here</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">Separated link</a></li>
+            <li><a href="#">Streetwear Night Live</a></li>
+            <li><a href="#">Freshstock</a></li>
+            <li><a href="#">The Casual Co.</a></li>
+            <!--li role="separator" class="divider"></li-->
+            <!--li><a href="#">Separated link</a></li-->
           </ul>
         </li>
         <li><a href="https://www.twitch.tv/streetwearnightlive">The Show</a></li>

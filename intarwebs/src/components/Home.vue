@@ -10,6 +10,16 @@
       </div>
     </div><br>
     <div class="container-fluid bg-3 text-left">    
+      <h3>FreshStock</h3>
+      <div class="snlcontainer">
+        <fs-item
+           v-for="item in fsshowlist"
+           v-bind:show="item"
+           v-bind:key="item.id">
+        </fs-item>
+      </div>
+    </div><br>
+    <div class="container-fluid bg-3 text-left">    
       <h3>The Casual</h3>
       <div class="snlcontainer">
         <casual-item
@@ -29,7 +39,8 @@ export default {
   name: 'Home',
   firebase: {
     snlshowlist: db.ref('videos/').limitToFirst(4),
-    thecasualshowlist: db.ref('thecasual/items/').limitToFirst(4)
+    thecasualshowlist: db.ref('thecasual/items/').limitToFirst(4),
+    fsshowlist: db.ref('freshstock/videos/').limitToFirst(4)
   },
   data () {
     return {
