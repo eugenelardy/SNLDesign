@@ -38,7 +38,7 @@ export default {
   opacity: 0;
   background-color: rgba(2, 2, 2, 0.6);
   transition: .5s ease;
-  width: 100%;
+  width: 350px;
 }
 
 .container {
