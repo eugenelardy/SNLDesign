@@ -1,7 +1,7 @@
 <template>
 <div class="snlitem">
   <div class="container">
-    <div class="vover">{{ show.title }} &#x1F552; &nbsp; {{ this.secondsToHms(show.length) }}</div>
+    <div class="vover">{{ show.title }}</div>
     <div class="snlthumb">
       <a :href="show.url">
         <img :src="show.thumbnails.medium[1].url" class="img-responsive" style="max-width:100%" :alt="show.title" :title="show.title">
