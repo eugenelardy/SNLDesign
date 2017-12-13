@@ -28,8 +28,6 @@
             <!--li><a href="#">Separated link</a></li-->
           </ul>
         </li>
-        <li><a href="https://www.twitch.tv/streetwearnightlive">The Show</a></li>
-	<li><a href="https://twitter.com/StreetNightLive">Twitter</a></li>
         <li><router-link v-bind:to="'/merch'">Merch</router-link></li>
       </ul>
     </div><!-- /.navbar-collapse -->
