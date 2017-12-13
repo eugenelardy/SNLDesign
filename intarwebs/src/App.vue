@@ -21,8 +21,8 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Programs<span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#">Streetwear Night Live</a></li>
-            <li><a href="#">Freshstock</a></li>
+            <li><router-link v-bind:to="'/about'">Streetwear Night Live</router-link></li>
+            <li><router-link v-bind:to="'/fs-about'">FreshStock</router-link></li>
             <li><a href="#">The Casual Co.</a></li>
             <!--li role="separator" class="divider"></li-->
             <!--li><a href="#">Separated link</a></li-->
@@ -31,7 +31,6 @@
         <li><a href="https://www.twitch.tv/streetwearnightlive">The Show</a></li>
 	<li><a href="https://twitter.com/StreetNightLive">Twitter</a></li>
         <li><router-link v-bind:to="'/merch'">Merch</router-link></li>
-        <li><router-link v-bind:to="'/about'">About</router-link></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
