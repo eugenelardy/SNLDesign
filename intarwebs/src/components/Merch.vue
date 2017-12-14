@@ -1,7 +1,7 @@
 <template>
   <div class="merch" id="merch" align="center">
     <img src="~@/assets/img/winter-17.jpg" class="img-responsive">
-    Winter/17 - <a href="https://goo.gl/forms/DkJMip9e59VnrN8k2">Sign up</a>
+    Winter/17 - <a class="text-warning" href="https://goo.gl/forms/DkJMip9e59VnrN8k2">Sign up</a>
 
     <br><br><br>
 
