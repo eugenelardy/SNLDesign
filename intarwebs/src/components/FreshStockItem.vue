@@ -4,7 +4,7 @@
     <a :href="show.url">
       <div class="vover"><div class="vovertext text-center">{{ show.title }}</div></div>
       <div class="fsthumb">
-        <img :src="show.thumbnails.medium[1].url" class="img-responsive" style="max-width:100%" :alt="show.title" :title="show.title">
+        <img :src="show.thumbnails.medium[0].url" class="img-responsive" style="max-width:100%" :alt="show.title" :title="show.title">
       </div>
     </a>
   </div>
