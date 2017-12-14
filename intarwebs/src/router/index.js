@@ -11,7 +11,7 @@ export default new Router({
   mode: 'history',
   routes: [
     { path: '/', name: 'Home', component: Home },
-    { path: '/merch', name: 'Merch', component: Merch },
+    { path: '/quickie-mart', name: 'Merch', component: Merch },
     { path: '/fs-about', name: 'FsAbout', component: FsAbout },
     { path: '/about', name: 'About', component: About }
   ]

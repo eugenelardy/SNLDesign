@@ -28,7 +28,7 @@
             <!--li><a href="#">Separated link</a></li-->
           </ul>
         </li>
-        <li><router-link v-bind:to="'/merch'">Merch</router-link></li>
+        <li><router-link v-bind:to="'/quickie-mart'">Quickie Mart</router-link></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
