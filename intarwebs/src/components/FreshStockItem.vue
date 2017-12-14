@@ -30,6 +30,7 @@ export default {
 <style scoped>
 .fsitem {
   padding: 1em;
+  padding-left: 0;
   max-width: 350px;
 }
 
@@ -51,6 +52,7 @@ export default {
 
 .container {
   position: relative;
+  padding-left: 0;
 }
 
 .container:hover .vover {

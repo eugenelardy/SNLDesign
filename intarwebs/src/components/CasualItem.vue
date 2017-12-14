@@ -22,6 +22,7 @@ export default {
 <style scoped>
 .casualitem {
   padding: 1em;
+  padding-left: 0;
   max-width: 350px;
 }
 
@@ -43,6 +44,7 @@ export default {
 
 .container {
   position: relative;
+  padding: 0;
 }
 
 .container:hover .vover {
