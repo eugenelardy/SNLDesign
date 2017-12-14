@@ -1,8 +1,9 @@
 <template>
   <div id="about" class="about">
   <h2>Streetwear Night Live</h2>
+  <div id="twitch-embed"></div>
   <p>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Streetwear Night Live is a show on streetwear culture & everything in between that is hosted by most savage duo on the internet, Eugene and P-Money. Join the hosts are they talk about the latest trends, collabs, and anything related to the culture. Live every Thursday at 8pm EST.
   </p>
   <br>
   <p class="text-center">
@@ -15,7 +16,15 @@
 
 <script>
 export default {
-  name: 'about'
+  name: 'about',
+  mounted: function () {
+    /* eslint-disable no-new */
+    new window.Twitch.Embed('twitch-embed', {
+      width: '100%',
+      height: 480,
+      channel: 'streetwearnightlive'
+    })
+  }
 }
 </script>
 
