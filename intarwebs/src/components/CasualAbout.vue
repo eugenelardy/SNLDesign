@@ -5,7 +5,7 @@
     <iframe width="100%" height="400" src="https://www.youtube.com/embed/QRZ5u3uSe9s" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
   </div>
   <p>
-  The Casual Season II starts now with a new way to look at Japan. More onsite, more in depth, more professional, more personal, more content, more shows. We're full-timing it now. Our aim: to become the definitive location for Japanese Street fashion and culture. 
+  THE CASUAL is a social entertainment hybrid based in Tokyo, Japan that provides coverage and original programing highlighting the various sub-cultures and lifestyles within street culture. With a deep-rooted affinity towards Japanese street culture the aim has and will always be to bridge the gap between East and West in hopes of creating a more complete global community of street fashion, culture, and lifestyle enthusiasts.
   </p>
   <br>
   <p class="text-center">
