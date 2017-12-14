@@ -38,7 +38,7 @@ import db from '../db.js'
 export default {
   name: 'Home',
   firebase: {
-    snlshowlist: db.ref('videos/').limitToFirst(5),
+    snlshowlist: db.ref('snl/videos/').limitToFirst(5),
     thecasualshowlist: db.ref('thecasual/items/').limitToFirst(5),
     fsshowlist: db.ref('freshstock/videos/').limitToFirst(5)
   },
