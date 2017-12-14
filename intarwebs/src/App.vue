@@ -44,6 +44,8 @@ export default {
 </script>
 
 <style>
+@import 'assets/css/snl.css';
+
 .snl {
   margin: 0 auto;
 }

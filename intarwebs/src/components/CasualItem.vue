@@ -1,12 +1,12 @@
 <template>
 <div class="casualitem">
   <div class="container">
-    <div class="vover">{{ show.snippet.title }}</div>
-    <div class="snlthumb">
-      <a :href="'https://www.youtube.com/watch?v=' + show.id.videoId">
-      <img :src="show.snippet.thumbnails.medium.url" class="img-responsive" style="max-width:100%" :alt="show.snippet.title" :title="show.title">
-      </a>
-    </div>
+    <a :href="'https://www.youtube.com/watch?v=' + show.id.videoId">
+      <div class="vover"><div class="vovertext text-center">{{ show.snippet.title }}</div></div>
+      <div class="snlthumb">
+        <img :src="show.snippet.thumbnails.medium.url" class="img-responsive" style="max-width:100%" :alt="show.snippet.title" :title="show.title">
+      </div>
+    </a>
   </div>
 </div>
 </template>
@@ -24,23 +24,6 @@ export default {
   padding: 1em;
   padding-left: 0;
   max-width: 350px;
-}
-
-.vover {
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  float: left;
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  z-index: 1000;
-  color: #FFFFFF;
-  opacity: 0;
-  background-color: rgba(2, 2, 2, 0.6);
-  transition: .5s ease;
-  width: 350px;
-  height: 100%;
 }
 
 .container {

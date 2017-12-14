@@ -1,12 +1,12 @@
 <template>
 <div class="fsitem">
   <div class="container">
-    <div class="vover">{{ show.title }}</div>
-    <div class="fsthumb">
     <a :href="show.url">
-      <img :src="show.thumbnails.medium[1].url" class="img-responsive" style="max-width:100%" :alt="show.title" :title="show.title">
+      <div class="vover"><div class="vovertext text-center">{{ show.title }}</div></div>
+      <div class="fsthumb">
+        <img :src="show.thumbnails.medium[1].url" class="img-responsive" style="max-width:100%" :alt="show.title" :title="show.title">
+      </div>
     </a>
-    </div>
   </div>
 </div>
 </template>
@@ -32,23 +32,6 @@ export default {
   padding: 1em;
   padding-left: 0;
   max-width: 350px;
-}
-
-.vover {
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  float: left;
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  z-index: 1000;
-  color: #FFFFFF;
-  opacity: 0;
-  background-color: rgba(2, 2, 2, 0.6);
-  transition: .5s ease;
-  width: 350px;
-  height: 100%;
 }
 
 .container {
