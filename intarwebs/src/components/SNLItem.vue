@@ -48,11 +48,13 @@ export default {
   background-color: rgba(2, 2, 2, 0.6);
   transition: .5s ease;
   width: 350px;
+  height: 100%;
 }
 
 .container {
   position: relative;
   padding-left: 0;
+  display:inline-block;
 }
 
 .container:hover .vover {
