@@ -1,6 +1,6 @@
 <template>
 <div class="snlitem">
-  <div class="container">
+  <div class="hcontainer">
     <a :href="show.url">
       <div class="vover"><div class="vovertext text-center">{{ show.title }}</div></div>
       <div class="snlthumb">
@@ -34,13 +34,13 @@ export default {
   max-width: 350px;
 }
 
-.container {
+.hcontainer {
   position: relative;
   padding-left: 0;
   display:inline-block;
 }
 
-.container:hover .vover {
+.hcontainer:hover .vover {
   opacity: 1;
 }
 </style>

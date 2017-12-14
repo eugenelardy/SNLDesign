@@ -1,6 +1,6 @@
 <template>
 <div class="fsitem">
-  <div class="container">
+  <div class="hcontainer">
     <a :href="show.url">
       <div class="vover"><div class="vovertext text-center">{{ show.title }}</div></div>
       <div class="fsthumb">
@@ -34,12 +34,12 @@ export default {
   max-width: 350px;
 }
 
-.container {
+.hcontainer {
   position: relative;
   padding-left: 0;
 }
 
-.container:hover .vover {
+.hcontainer:hover .vover {
   opacity: 1;
 }
 </style>

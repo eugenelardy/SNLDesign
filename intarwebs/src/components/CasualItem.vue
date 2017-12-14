@@ -1,6 +1,6 @@
 <template>
 <div class="casualitem">
-  <div class="container">
+  <div class="hcontainer">
     <a :href="'https://www.youtube.com/watch?v=' + show.id.videoId">
       <div class="vover"><div class="vovertext text-center">{{ show.snippet.title }}</div></div>
       <div class="snlthumb">
@@ -26,12 +26,12 @@ export default {
   max-width: 350px;
 }
 
-.container {
+.hcontainer {
   position: relative;
   padding: 0;
 }
 
-.container:hover .vover {
+.hcontainer:hover .vover {
   opacity: 1;
 }
 </style>
