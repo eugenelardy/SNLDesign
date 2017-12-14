@@ -23,7 +23,7 @@
           <ul class="dropdown-menu">
             <li><router-link v-bind:to="'/about'">Streetwear Night Live</router-link></li>
             <li><router-link v-bind:to="'/fs-about'">FreshStock</router-link></li>
-            <li><a href="#">The Casual Co.</a></li>
+            <li><router-link v-bind:to="'/cas-about'">The Casual Co.</router-link></li>
             <!--li role="separator" class="divider"></li-->
             <!--li><a href="#">Separated link</a></li-->
           </ul>
