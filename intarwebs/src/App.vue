@@ -11,7 +11,7 @@
         <span class="icon-bar"></span>
       </button>
       <router-link v-bind:to="'/'">
-        <img src="./assets/img/snl-hero.png" class="img-responsive snl" style="width:150px; padding-top:16px;">
+        <img src="./assets/img/snl-hero.png" class="img-responsive snl" style="width:150px">
       </router-link>
     </div>
 
